@@ -15,7 +15,7 @@ export default async function Home() {
   return (
     <main className="h-72">
       <div>
-        <div className="flex justify-center align-middle  space-x-2">
+        <div className="flex justify-right align-middle  space-x-2">
         <LoginButton />
         <RegisterButton />
         <LogoutButton />
